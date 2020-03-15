@@ -1,1 +1,1 @@
-{"version":3,"sources":["style.scss","_colors.scss"],"names":[],"mappings":"AAEA,GACI,UCHmB","file":"style.min.css","sourcesContent":["@import \"colors\";\r\n\r\nh1 {\r\n    color: $primary_color;\r\n}","$primary_color: #ff00ff;"]}
+{"version":3,"sources":["style.scss","_colors.scss"],"names":[],"mappings":"AAEA,GACI,UCHmB,CDItB,MAGG,UAAW","file":"style.min.css","sourcesContent":["@import \"colors\";\r\n\r\nh1 {\r\n    color: $primary_color;\r\n}\r\n\r\n.text {\r\n    color: grey;\r\n}","$primary_color: #ff00ff;"]}
